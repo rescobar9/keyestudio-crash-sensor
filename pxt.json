@@ -1,5 +1,5 @@
 {
-    "name": "Keyestudio Crash Sensor",
+    "name": "Keyestudio Crash Sensor ServoLED",
     "description": "",
     "dependencies": {
         "core": "*",
